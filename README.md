@@ -1,6 +1,6 @@
 README
 
-Try it out! - 
+Try it out! - https://infinite-scroll.github.io/
 
 This is a simple web app that fetches and displays photos from the Unsplash API in an infinite scroll fashion. It loads an initial set of photos on page load and then fetches additional photos as the user scrolls down the page.
 Installation
